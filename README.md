@@ -1,4 +1,4 @@
-# FOXTROT-2-ASSIGNMENT-2
+# Group 4 (Foxtrot-2) Project One
 
 # Loan Default Prediction for GhanaLoanConnect
 A machine learning project to predict loan defaults for GhanaLoanConnect, aiming to reduce non-performing loans (NPLs) and improve lending decisions.
@@ -16,13 +16,13 @@ Deliverables: final report, and notebook.
 
 
 ## 🏗 Project Structure
-/loan-default-prediction
+/Group 4 (Foxtrot-2) Project One
 │
 ├── data/
 │   └── loan_borowwer_data.csv      # Dataset file
 │
 ├── notebooks/
-│   └── loan_default_analysis.ipynb # Main Jupyter Notebook
+│   └── Group 4 (Foxtrot-2) Project One.ipynb # Main Jupyter Notebook
 │
 ├── reports/
 │   ├── final_report.pdf            # Formal project report
