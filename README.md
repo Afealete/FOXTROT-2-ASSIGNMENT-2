@@ -34,14 +34,14 @@ Deliverables: final report, and notebook.
 ## 🔧 How to Run
 
 1. Clone the repository:
-   git clone https://github.com/your-username/loan-default-prediction.git
-   cd loan-default-prediction
+   git clone https://github.com/Afealete/FOXTROT-2-ASSIGNMENT-2.git
+   cd FOXTROT-2-ASSIGNMENT-2
 
 2. Install required Python packages:
     pip install -r requirements.txt
 
-3. Launch Jupyter Notebook:
-    jupyter notebook notebooks/loan_default_analysis.ipynb
+3. Launch Jupyter or Google Colab Notebook:
+   
 
    
 ## 📊 Project Goals
